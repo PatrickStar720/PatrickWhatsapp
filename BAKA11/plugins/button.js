@@ -2,8 +2,8 @@ let { MessageType } = require('@adiwajshing/baileys')
 let handler = async (m, { conn }) => {
 const buttons = [
 {buttonId: 'id1', buttonText: {displayText: 'Promosi Bot'}, type: 1}, 
-{buttonId: 'id2', buttonText: {displayText: '💻Owner BakaBOTZ 💻'}, type: 1}, 
-{buttonId: 'id3', buttonText: {displayText: '⚠ SYARAT & KETENTUAN ⚠'}, type: 1}
+{buttonId: 'id2', buttonText: {displayText: '💻Owner PatrickBot 💻'}, type: 1}, 
+{buttonId: 'id3', buttonText: {displayText: 'Syarat n Ketentuan'}, type: 1}
 ]
 const buttonMessage = {
     contentText: "Hello World\nPatrickBot Is Here\nSelect Menu Below\n*Jangan Lupa Baca Dibawah ini*\n\n*Spam = Banned\nTelp = Blok*\n\n\nJoin Group WhatsApp\nhttps://chat.whatsapp.com/FIdMh612Iru1ZQgrXLp8KN\n\nFollow Instagram @_pa7rick :)", 
