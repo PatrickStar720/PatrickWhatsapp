@@ -1,5 +1,5 @@
 global.DeveloperMode = 'false' //true Or false
-global.linkGC = ['https://bit.ly/36cLg9x']
+global.linkGC = ['https://chat.whatsapp.com/FIdMh612Iru1ZQgrXLp8KN']
 global.channelYT = ['https://bit.ly/3hg3bm4'] 
 global.owner = ['6288989029718']// Put your number here
 global.mods = ['6288989029718'] // Want some help?
