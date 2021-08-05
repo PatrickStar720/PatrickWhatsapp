@@ -1,8 +1,8 @@
 global.DeveloperMode = 'false' //true Or false
 global.linkGC = ['https://bit.ly/36cLg9x']
 global.channelYT = ['https://bit.ly/3hg3bm4'] 
-global.owner = ['6287834993722']// Put your number here
-global.mods = ['6287834993722'] // Want some help?
+global.owner = ['6288989029718']// Put your number here
+global.mods = ['6288989029718'] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -25,8 +25,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'Raku Gans'
-global.author = 'BakaBOTZ Is The Best'
+global.packname = 'Created by PatrickBot'
+global.author = ''
 
 global.multiplier = 1000 // The higher, The harder levelup
 
