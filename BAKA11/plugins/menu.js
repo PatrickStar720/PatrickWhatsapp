@@ -154,32 +154,13 @@ const wita = moment.tz('Asia/Makassar').format("HH:mm:ss")
 ┌┈━━━━「 *INFO DEVELOPER* 」━━━━┈ ❋ཻུ۪۪⸙
 │
 │◦➛ *ɴᴀᴍᴇ* : ${conn.getName(conn.user.jid)}
-│◦➛ *ᴛᴀɴɢɢᴀʟ ʟᴀʜɪʀ* : 3 Januari 2009
-│◦➛ *ʏᴏᴜᴛᴜʙᴇ* : https://bit.ly/3hg3bm4
-│◦➛ *ɢʀᴏᴜᴘ* : https://bit.ly/36cLg9x
-│◦➛ *ɢɪᴛʜᴜʙ* : https://github.com/BakaBOTZ/
-│◦➛ *ʙʀᴏᴡsᴇʀ* : Baka Team
-│◦➛ *ᴍᴇʀᴋ ʜᴘ* : Redmi 4A
-│◦➛ *ᴠᴇʀsɪ ʜᴘ* : N2G47H
-│◦➛ *ᴠᴇʀsɪ ᴍɪᴜɪ* : MIUI 10
-│◦➛ *ᴠᴇʀsɪ ᴀɴᴅʀᴏɪᴅ* : 7.1.2
-│◦➛ *ᴄᴘᴜ* : Quad-core Max 1.40GHz
-│◦➛ *ʀᴏᴏᴛ ᴀᴄᴄᴇss* : No
-│◦➛ *ʀᴀᴍ* : 2GB
-│◦➛ *sᴄʀᴇᴇɴ sɪᴢᴇ* : 5.00 Inch
-│◦➛ *ᴡᴇɪɢʜᴛ* : 131 Gram
-│◦➛ *ᴀᴘɪ ʟᴇᴠᴇʟ* : 25
 │◦➛ *ʙᴀᴛᴛᴇʀʏ* : %battery%
-│◦➛ *ᴄᴀᴘᴀᴄɪᴛʏ* : 3120 mAh
-│◦➛ *ᴘᴏᴡᴇʀ sᴏᴜʀᴄᴇ* : USB Port
-│◦➛ *ᴛᴇᴄʜɴᴏʟᴏɢʏ* : Li-Poly
-│◦➛ *ɢᴘᴜ ʀᴇɴᴅᴇʀᴇʀ*: Adreno (TM) 308
 │◦➛ *ᴛᴏᴛᴀʟ ʜɪᴛ* : %totalsend ᴘᴇsᴀɴ
 │◦➛ *ᴜsᴇʀ* : %totalreg ɴᴏᴍᴏʀ
 │◦➛ *ɢʀᴏᴜᴘ* : %totalgc ɢʀᴏᴜᴘ
 │◦➛ *sᴘᴇᴇᴅ ʙᴏᴛ* : ${json.SPEED}
-│◦➛ *ɴᴏᴍᴇʀ ᴏᴡɴᴇʀ* : wa.me/6287834993722
-│◦➛ *B A K A  B O T Z*
+│◦➛ *ɴᴏᴍᴇʀ ᴏᴡɴᴇʀ* : wa.me/6288989029718
+│◦➛ *P a t r i c k B o t*
 │
 └┬───────────┈ ⳹ ❋ཻུ۪۪⸙
 ┌┤「 *INFO BOT* 」
